@@ -1,0 +1,4 @@
+lab2/node_modules/
+hello-world-app/node_modules/
+build/
+.env
