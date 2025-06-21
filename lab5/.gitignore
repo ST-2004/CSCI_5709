@@ -1,0 +1,25 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+npm-debug.log
+
+# Editor directories
+.vscode/
+
+# OS-specific files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.swp
+
+# Yarn lock file (if using npm)
+yarn.lock
+
+# Test coverage reports
+coverage/
